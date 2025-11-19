@@ -17,6 +17,8 @@ Users create habits, track daily progress, maintain streaks, and watch their pla
 
    1)User Registration & Login (JWT Authentication)
      Secure sign-up, login, and role-based access.
+
+     
    2)Habit Creation & Management
      Users create daily/weekly habits, set reminders, view history.
    3)Virtual Plant Growth System
