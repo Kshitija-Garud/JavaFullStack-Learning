@@ -1,0 +1,60 @@
+- Q:What is java?
+- A:Java is a high-level, object-oriented, platform-independent programming language developed by Sun Microsystems in 1995 (now owned by Oracle).
+
+- Q: What is the difference between JDK, JRE, and JVM?
+- A: JDK is for developing Java programs, JRE is for running them, and JVM is the engine that executes Java bytecode.
+
+**Java Compilation Process (How Java Code Runs):**
+Source Code (.java)
+      ↓
+Java Compiler (javac)
+      ↓
+Bytecode (.class)
+      ↓
+Java Virtual Machine (JVM)
+      ↓
+Machine Code (Output)
+
+
+- Q: What is Just-In-Time (JIT) Compiler?
+- A:JIT is part of JVM. It is used to improve performance by  converting frequently used bytecode  into native machine code at runtime.
+
+**Type Conversion and Type Casting**
+
+1) Implicit Conversion (Widening Casting): Automatically done by Java when moving from a smaller data type to a larger one.
+Example: byte → short → int → long → float → double
+
+
+2) Explicit Conversion (Narrowing Casting): Done manually when moving from a larger data type to a smaller one.
+Example: double -> float -> long -> int-> short-> byte
+
+**Default values of data types**
+
+| Type                   | Default Value |
+| ---------------------- | ------------- |
+| byte, short, int, long | 0             |
+| float, double          | 0.0           |
+| char                   | '\u0000'      |
+| boolean                | false         |
+| object refs            | null          |
+
+
+**Variable types:**
+
+Local variable – inside method, no default value
+
+Instance variable – inside class, outside method
+
+Static variable – declared using static, shared among all objects
+
+**Operator precedence order (used in expressions).**
+Example: *, /, % have higher precedence than +, -.
+
+**Short-circuit behavior:**
+&& and || don’t evaluate the second condition if not needed.
+
+There are 53 keywords present in java
+      - reserved but unused=2
+      - goto and const are reserved but unused keywords.
+      so java21 has 51 active keywords.
+**true,false and null are not keyworkds in java they are literals**
