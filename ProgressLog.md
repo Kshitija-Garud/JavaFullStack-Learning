@@ -10,3 +10,16 @@
   3)calculate power of number
 - Finalized project topic: “MindGarden” – Positive Habit Growth Using Virtual Plant
 - Next Goal: Learn control statements and loops
+
+### 🗓️ Day 2 (Nov 20, 2025)
+
+Learn: Control Statements (if, else, nested if)
+
+Practice 2 DSA problems :
+1)Check number is Armstrong or not.
+2)print Armstrong numbers between 1 to 500.
+3)Print reverse number
+
+Project: Draft UI flow of MindGarden
+
+Next Goal: Loops (for, while, do-while)
