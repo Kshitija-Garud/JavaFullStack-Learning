@@ -23,3 +23,13 @@ Practice 2 DSA problems :
 Project: Draft UI flow of MindGarden
 
 Next Goal: Loops (for, while, do-while)
+
+### 🗓️ Day 3 (Nov 21, 2025)
+
+Learn: Loops in-depth
+
+Practice: Star pattern
+
+Project: Design basic wireframes
+
+Next Goal: Switch, break, continue
